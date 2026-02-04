@@ -1,0 +1,7 @@
+{
+  "name": "gsc-telegram-bot",
+  "private": true,
+  "dependencies": {
+    "googleapis": "^140.0.0"
+  }
+}
